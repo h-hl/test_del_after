@@ -7,5 +7,5 @@ change readme
 # Test 2
 change readme again 
 
-# Test 3
-change readme again again
+# EVIL DELETION OF TEST 3
+HAHAHA
